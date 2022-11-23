@@ -9,23 +9,23 @@
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@reduxjs/toolkit": "^1.7.1",
-    "antd": "^4.18.3",
-    "axios": "^0.24.0",
-    "chart.js": "^3.7.0",
-    "html-react-parser": "^1.4.5",
-    "millify": "^4.0.0",
+    "antd": "^5.0.1",
+    "axios": "^1.2.0",
+    "chart.js": "^4.0.1",
+    "html-react-parser": "^3.0.4",
+    "millify": "^5.0.1",
     "moment": "^2.29.1",
-    "react": "^17.0.2",
-    "react-chartjs-2": "^4.0.0",
-    "react-dom": "^17.0.2",
-    "react-redux": "^7.2.6",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.0.1",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
     "react-router-dom": "^6.2.1"
   },
   "devDependencies": {
-    "@types/react": "^17.0.33",
-    "@types/react-dom": "^17.0.10",
-    "@vitejs/plugin-react": "^1.0.7",
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^2.2.0",
     "typescript": "^4.4.4",
-    "vite": "^2.7.2"
+    "vite": "^3.2.4"
   }
 }
